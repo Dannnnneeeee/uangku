@@ -14,7 +14,7 @@ class HomePage extends StatelessWidget{
           AppCardWidget(),
           TextField(
           decoration: InputDecoration(
-          labelText: 'Masukkan teks',
+          labelText: 'Masukkan tekswawfa',
           filled: true,
           fillColor: Colors.blue
         ),
